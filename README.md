@@ -11,6 +11,7 @@
 |-------|------|
 | [opc-kb-manager](./skills/opc-kb-manager/) | OPC 知识库管理器 — 素材入库 → wiki 消化 → 索引维护 → 健康检查，完整的一人公司知识管理流水线 |
 | [wechat-link-digest](./skills/wechat-link-digest/) | 微信链接消化 — 从微信接收链接 → 保存 → AI 解析 → 自动生成 wiki 页 → 回复摘要，微信端知识自动入库 |
+| [hyperframes-video](./skills/hyperframes-video/) | 基于 HyperFrames 7 步流水线制作中文口播视频 — Capture → Design → Script → Storyboard → Voiceover → Build → Validate |
 
 ---
 
